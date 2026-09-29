@@ -1,0 +1,19 @@
+{
+  "wheel_id": 306,
+  "structure": "umbrella",
+  "slug": "solicitorsaustralia-com-150",
+  "project": "family-lawyers-australia-d911fccbfa18b9341d2a64afc8d8f0b1741d52",
+  "parent_t1_ref": "solicitorsaustralia.com-003",
+  "node_role": "buffer",
+  "money_target": "solicitorsaustralia.com.au",
+  "primary_kw": "family lawyers australia",
+  "intended_url": "http://family-lawyers-australia-d911fccbfa18b9341d2a64afc8d8f0b1741d52.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "44a5ce5e96f8add6",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/family-lawyers-australia/",
+      "anchor": "family lawyers australia",
+      "rel": "follow"
+    }
+  ]
+}
